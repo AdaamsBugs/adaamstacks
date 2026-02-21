@@ -15,7 +15,7 @@ export default function Footer() {
       {/* Bottom Section */}
       <div className="flex flex-col sm:flex-row justify-between items-center gap-4 sm:gap-0 mt-auto px-4 sm:px-6 md:px-10 py-6 text-base sm:text-lg md:text-xl font-clash text-center sm:text-left">
         <h1>
-          Made & Crafted by{" "}
+          Developed & Crafted by{" "}
           <Link
             href="https://yourwebsite.com"
             target="_blank"
