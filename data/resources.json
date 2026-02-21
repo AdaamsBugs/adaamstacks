@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Tldraw",
+    "url": "https://www.tldraw.com/",
+    "category": "Technologies",
+    "id": "9c3b1a66-7bfb-4559-84fe-c00c222c0c6c",
+    "createdAt": 1771590896496,
+    "favicon": "https://www.google.com/s2/favicons?domain=www.tldraw.com&sz=64"
+  },
+  {
+    "name": "Heroui",
+    "url": "https://www.heroui.com/",
+    "category": "UI Libraries",
+    "id": "b337e6f0-93aa-4b41-9379-903425ea642a",
+    "createdAt": 1771590254513,
+    "favicon": "https://www.google.com/s2/favicons?domain=www.heroui.com&sz=64"
+  },
+  {
+    "name": "Coolors",
+    "url": "https://coolors.co/",
+    "category": "Inspiration",
+    "id": "9a4041ec-db8b-4a3d-bbf6-032d6a109902",
+    "createdAt": 1771590229451,
+    "favicon": "https://www.google.com/s2/favicons?domain=coolors.co&sz=64"
+  },
+  {
+    "name": "Microinteractions",
+    "url": "https://www.microinteractionsui.com/tabs",
+    "category": "UI Libraries",
+    "id": "23dd46a5-af1b-45b8-8134-a6e11100278c",
+    "createdAt": 1771590176810,
+    "favicon": "https://www.google.com/s2/favicons?domain=www.microinteractionsui.com&sz=64"
+  },
+  {
+    "name": "21stDev",
+    "url": "https://21st.dev/community/components",
+    "category": "Inspiration",
+    "id": "cd8c4d33-a0eb-4f0a-a76b-36ea7dcc7df7",
+    "createdAt": 1771590083999,
+    "favicon": "https://www.google.com/s2/favicons?domain=21st.dev&sz=64"
+  },
+  {
+    "name": "MagicUi",
+    "url": "https://magicui.design/",
+    "category": "UI Libraries",
+    "id": "f9332a5f-4304-434c-b1ff-f54b473eff69",
+    "createdAt": 1771590038106,
+    "favicon": "https://www.google.com/s2/favicons?domain=magicui.design&sz=64"
+  },
+  {
+    "name": "DarkMode",
+    "url": "https://www.darkmodedesign.com/",
+    "category": "Inspiration",
+    "id": "ca6d74ab-c57f-446f-a805-f1999d022aeb",
+    "createdAt": 1771536718996,
+    "favicon": "https://www.google.com/s2/favicons?domain=www.darkmodedesign.com&sz=64"
+  },
+  {
+    "name": "DoingCoolStuff",
+    "url": "https://www.doingcoolstuff.xyz/",
+    "category": "Inspiration",
+    "id": "8f764665-aa49-426e-b2dc-ad41fd138f49",
+    "createdAt": 1771536695249,
+    "favicon": "https://www.google.com/s2/favicons?domain=www.doingcoolstuff.xyz&sz=64"
+  },
+  {
+    "name": "MinimalGallery",
+    "url": "https://minimal.gallery/",
+    "category": "Inspiration",
+    "id": "b0e59400-95de-4aaa-8fbd-f142697dc1cd",
+    "createdAt": 1771536660487,
+    "favicon": "https://www.google.com/s2/favicons?domain=minimal.gallery&sz=64"
+  },
+  {
+    "name": "CraftWork",
+    "url": "https://craftwork.design/curated/websites/",
+    "category": "Inspiration",
+    "id": "a558f1bd-8a38-45de-901d-ba9a11a445ea",
+    "createdAt": 1771536622685,
+    "favicon": "https://www.google.com/s2/favicons?domain=craftwork.design&sz=64"
+  },
+  {
+    "name": "Codrops",
+    "url": "https://tympanus.net/codrops/",
+    "category": "Inspiration",
+    "id": "2bb21860-63f7-4049-aab0-b2470378037d",
+    "createdAt": 1771536573967,
+    "favicon": "https://www.google.com/s2/favicons?domain=tympanus.net&sz=64"
+  },
+  {
+    "name": "ReactBits",
+    "url": "https://reactbits.dev/",
+    "category": "UI Libraries",
+    "id": "b4c64fcb-84b4-47f3-9838-9b6d5c0ba79d",
+    "createdAt": 1771536429762,
+    "favicon": "https://www.google.com/s2/favicons?domain=reactbits.dev&sz=64"
+  },
+  {
+    "name": "ShadcnUi",
+    "url": "https://ui.shadcn.com/",
+    "category": "UI Libraries",
+    "id": "986751bc-51aa-498f-b52e-fc69ff80e4ad",
+    "createdAt": 1771536399761,
+    "favicon": "https://www.google.com/s2/favicons?domain=ui.shadcn.com&sz=64"
+  },
+  {
+    "name": "Downloadirly",
+    "url": "https://downloadlynet.ir/",
+    "category": "Others",
+    "id": "12d01ec7-a0d8-4691-9427-281031192efc",
+    "createdAt": 1771536369972,
+    "favicon": "https://www.google.com/s2/favicons?domain=downloadlynet.ir&sz=64"
+  },
+  {
+    "name": "Free GPT",
+    "url": "https://sharedchat.fun/",
+    "category": "AI Tools",
+    "id": "c8191d90-409e-4980-979c-93bd4e64eac3",
+    "createdAt": 1771536330023,
+    "favicon": "https://www.google.com/s2/favicons?domain=sharedchat.fun&sz=64"
+  },
+  {
+    "name": "Fontshare",
+    "url": "https://www.fontshare.com/",
+    "category": "Typography",
+    "id": "42203103-5661-40ae-a08a-d272dc487c80",
+    "createdAt": 1771536007572,
+    "favicon": "https://www.google.com/s2/favicons?domain=www.fontshare.com&sz=64"
+  }
+]
